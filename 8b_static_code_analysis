@@ -1,0 +1,18 @@
+theia@theiadocker-jjwanczyk:/home/project/oaqjp-final-project-emb-ai$ pylint server.py
+************* Module server
+server.py:29:0: C0304: Final newline missing (missing-final-newline)
+
+------------------------------------------------------------------
+Your code has been rated at 9.23/10 (previous run: 4.62/10, +4.62)
+
+theia@theiadocker-jjwanczyk:/home/project/oaqjp-final-project-emb-ai$ pylint server.py
+************* Module server
+server.py:29:0: C0304: Final newline missing (missing-final-newline)
+
+------------------------------------------------------------------
+Your code has been rated at 9.23/10 (previous run: 9.23/10, +0.00)
+
+theia@theiadocker-jjwanczyk:/home/project/oaqjp-final-project-emb-ai$ pylint server.py
+
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 9.23/10, +0.77)
